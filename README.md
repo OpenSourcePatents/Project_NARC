@@ -2,7 +2,7 @@
 
 ### National Addiction Response Cartography Integrated with End-to-End Fentanyl Disruption Architecture
 
-**Author:** Charles Walter Dowd Jr. (Satori)
+**Author:** Charles Walter Dowd Jr. 
 **Date:** March 15, 2026
 **License:** CC0 (No rights reserved)
 **Initiative:** [Open Source Patents](https://github.com/OpenSourcePatents)
